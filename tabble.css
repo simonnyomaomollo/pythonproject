@@ -1,0 +1,35 @@
+h1{
+    font-family: Calibri;
+    color: purple;
+    text-size: bolder;
+    text-align: center;
+}
+#label{
+    color: purple;
+}
+#bottom{
+    background-color: #6a0dad;
+            color: white;
+            padding: 10px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+}
+body{
+    background-color: #6a0dad;
+}
+table {
+    background: white;
+    align-items: center;
+}
+table {
+    border-radius: 35px;
+    padding: 100px;
+    align-items: center;
+    margin: 100px auto;
+}
+img {
+    max-width: 300px;
+    height: 350px;
+}
